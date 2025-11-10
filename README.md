@@ -21,9 +21,6 @@ https://axefaces.straw.page
 
 
 
-
-
-
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31v74xrdgiha5cc6je6xdu6rzkxm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=3a3b4b&interchange=false&profanity=false&bar_color=737fa0&bar_color_cover=false">
