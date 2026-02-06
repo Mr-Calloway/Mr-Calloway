@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=midnightchances&color=565867&label=⛏️">
+<img src="https://komarev.com/ghpvc/?username=midnightchances&color=565867&label=🪓">
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-Clonelinlock19
+Ivans Apartment
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Clonelinlock19
   Strawpage
 </p>
 <p align="center">
-https://collinlocked16.straw.page
+ https://ivansapartment.straw.page/
 </p>
 
 
