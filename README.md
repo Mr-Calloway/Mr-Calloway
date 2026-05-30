@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=midnightchances&color=565867&label=🎀">
+<img src="https://komarev.com/ghpvc/?username=midnightchances&color=565867&label=🔪">
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-Calloway ! ^^
+Dave Miller ! ^^
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Calloway ! ^^
   Strawpage
 </p>
 <p align="center">
-https://sylverfischer.straw.page
+https://davezzeria.straw.page
 </p>
 
 
