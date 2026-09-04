@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-Dave Miller ! ^^
+The realest Travis ! ^^
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Dave Miller ! ^^
   Strawpage
 </p>
 <p align="center">
-https://davezzeria.straw.page
+https://travisrapidly.straw.page
 </p>
 
 
