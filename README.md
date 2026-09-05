@@ -8,8 +8,10 @@
 
 <p align="center">
 The realest Travis ! ^^
-  
-  Devin , 21 / 06 / 2026 <3
+</p>
+
+<p align="center">
+Devin , 21 / 06 / 2026 <3
 </p>
 
 <p align="center">
