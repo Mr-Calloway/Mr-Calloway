@@ -11,7 +11,7 @@ The realest Travis ! ^^
 </p>
 
 <p align="center">
-Devin , 21 / 06 / 2026 <3
+Devin , 21 / 06 / 2026 <3 @kennedyrobotix
 </p>
 
 <p align="center">
